@@ -1,0 +1,3257 @@
+{
+	"result": [
+		{
+			"debtorTypeId": 1,
+			"bankId": 2,
+			"debtorTypeName": "Aval / Acceptance",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 2,
+			"bankId": 2,
+			"debtorTypeName": "BR D/A D/P",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 3,
+			"bankId": 2,
+			"debtorTypeName": "BR-L",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 4,
+			"bankId": 2,
+			"debtorTypeName": "CBD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 5,
+			"bankId": 2,
+			"debtorTypeName": "Combine Line",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 6,
+			"bankId": 2,
+			"debtorTypeName": "DL/C",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 7,
+			"bankId": 2,
+			"debtorTypeName": "Import P/N",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 8,
+			"bankId": 2,
+			"debtorTypeName": "L/C",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 9,
+			"bankId": 2,
+			"debtorTypeName": "L/G",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 10,
+			"bankId": 2,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 11,
+			"bankId": 2,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 12,
+			"bankId": 2,
+			"debtorTypeName": "O/D",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 13,
+			"bankId": 2,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 14,
+			"bankId": 2,
+			"debtorTypeName": "P/C ,Export P/N (ชำระดอกเบี้ยรายเดือน)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 15,
+			"bankId": 2,
+			"debtorTypeName": "P/C, Export P/N (หักส่วนลด)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 16,
+			"bankId": 2,
+			"debtorTypeName": "P/N (ชำระดอกเบี้ยรายเดือน)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 17,
+			"bankId": 2,
+			"debtorTypeName": "P/N (หักส่วนลด)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 18,
+			"bankId": 2,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 19,
+			"bankId": 2,
+			"debtorTypeName": "PN 3 จังหวัดชายแดนภาคใต้",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 20,
+			"bankId": 2,
+			"debtorTypeName": "PN I-Supply",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 21,
+			"bankId": 2,
+			"debtorTypeName": "PN ชำระ DL/C",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 22,
+			"bankId": 2,
+			"debtorTypeName": "S/G",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 23,
+			"bankId": 2,
+			"debtorTypeName": "S/L",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 24,
+			"bankId": 2,
+			"debtorTypeName": "Standby L/C",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 25,
+			"bankId": 2,
+			"debtorTypeName": "T/R",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 26,
+			"bankId": 2,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 27,
+			"bankId": 2,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 28,
+			"bankId": 2,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 29,
+			"bankId": 2,
+			"debtorTypeName": "สัญญาสินเชื่อเพื่อธุรกิจรายย่อย (สินเชื่อหมุนเวียน)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 30,
+			"bankId": 2,
+			"debtorTypeName": "สัญญาสินเชื่อเพื่อธุรกิจรายย่อย (เงินกู้)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 31,
+			"bankId": 2,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 32,
+			"bankId": 2,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 33,
+			"bankId": 3,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 34,
+			"bankId": 3,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 35,
+			"bankId": 3,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 36,
+			"bankId": 3,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 37,
+			"bankId": 4,
+			"debtorTypeName": "- (ไม่ต้องระบุ)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 38,
+			"bankId": 4,
+			"debtorTypeName": "Combine Line",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 39,
+			"bankId": 4,
+			"debtorTypeName": "Factoring",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 40,
+			"bankId": 4,
+			"debtorTypeName": "L/C, Domestic L/C",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 41,
+			"bankId": 4,
+			"debtorTypeName": "L/C, Domestic L/C, TR, PC, PD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 42,
+			"bankId": 4,
+			"debtorTypeName": "L/C, T/R และ/หรือ สัญญากู้เงิน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 43,
+			"bankId": 4,
+			"debtorTypeName": "L/C,T/R",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 44,
+			"bankId": 4,
+			"debtorTypeName": "L/G",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 45,
+			"bankId": 4,
+			"debtorTypeName": "L/N",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 46,
+			"bankId": 4,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 47,
+			"bankId": 4,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 48,
+			"bankId": 4,
+			"debtorTypeName": "Loan Revolving",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 49,
+			"bankId": 4,
+			"debtorTypeName": "O/D",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 50,
+			"bankId": 4,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 51,
+			"bankId": 4,
+			"debtorTypeName": "P/N",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 52,
+			"bankId": 4,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 53,
+			"bankId": 4,
+			"debtorTypeName": "Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 54,
+			"bankId": 4,
+			"debtorTypeName": "Purchase/Discounted (LC, Domestic LC, BC, T/T)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 55,
+			"bankId": 4,
+			"debtorTypeName": "Trust Receipt",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 56,
+			"bankId": 4,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 57,
+			"bankId": 4,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 58,
+			"bankId": 4,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 59,
+			"bankId": 4,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 60,
+			"bankId": 4,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 61,
+			"bankId": 6,
+			"debtorTypeName": "Aval",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 62,
+			"bankId": 6,
+			"debtorTypeName": "Combine Line",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 63,
+			"bankId": 6,
+			"debtorTypeName": "D. L/C",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 64,
+			"bankId": 6,
+			"debtorTypeName": "FPC",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 65,
+			"bankId": 6,
+			"debtorTypeName": "FPL",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 66,
+			"bankId": 6,
+			"debtorTypeName": "Factoring",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 67,
+			"bankId": 6,
+			"debtorTypeName": "Forward",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 68,
+			"bankId": 6,
+			"debtorTypeName": "IMPORT",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 69,
+			"bankId": 6,
+			"debtorTypeName": "L/C",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 70,
+			"bankId": 6,
+			"debtorTypeName": "L/C + T/R",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 71,
+			"bankId": 6,
+			"debtorTypeName": "L/G",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 72,
+			"bankId": 6,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 73,
+			"bankId": 6,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 74,
+			"bankId": 6,
+			"debtorTypeName": "O/D",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 75,
+			"bankId": 6,
+			"debtorTypeName": "O/D Controlled for Bangchak",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 76,
+			"bankId": 6,
+			"debtorTypeName": "O/D Controlled for PTT",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 77,
+			"bankId": 6,
+			"debtorTypeName": "O/D Controlled for PTTOR",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 78,
+			"bankId": 6,
+			"debtorTypeName": "O/D Controlled for SCG's Dealer",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 79,
+			"bankId": 6,
+			"debtorTypeName": "O/D Controlled for Siam Global House",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 80,
+			"bankId": 6,
+			"debtorTypeName": "O/D Controlled for ThaiBev",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 81,
+			"bankId": 6,
+			"debtorTypeName": "O/D Controlled for Yamaha",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 82,
+			"bankId": 6,
+			"debtorTypeName": "O/D(KTB Buyer)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 83,
+			"bankId": 6,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 84,
+			"bankId": 6,
+			"debtorTypeName": "P/C",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 85,
+			"bankId": 6,
+			"debtorTypeName": "P/N",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 86,
+			"bankId": 6,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 87,
+			"bankId": 6,
+			"debtorTypeName": "ขายลดตั๋ว(LBP)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 88,
+			"bankId": 6,
+			"debtorTypeName": "ขายลดเช็ค(LBD)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 89,
+			"bankId": 6,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 90,
+			"bankId": 6,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 91,
+			"bankId": 6,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 92,
+			"bankId": 6,
+			"debtorTypeName": "เงินกู้ประจำ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 93,
+			"bankId": 6,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 94,
+			"bankId": 6,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 95,
+			"bankId": 11,
+			"debtorTypeName": "Combine Line",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 96,
+			"bankId": 11,
+			"debtorTypeName": "FX Forward",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 97,
+			"bankId": 11,
+			"debtorTypeName": "Factoring",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 98,
+			"bankId": 11,
+			"debtorTypeName": "Fleet Card",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 99,
+			"bankId": 11,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 100,
+			"bankId": 11,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 101,
+			"bankId": 11,
+			"debtorTypeName": "LOAN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 102,
+			"bankId": 11,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 103,
+			"bankId": 11,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 104,
+			"bankId": 11,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 105,
+			"bankId": 11,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 106,
+			"bankId": 11,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 107,
+			"bankId": 11,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 108,
+			"bankId": 11,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 109,
+			"bankId": 12,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 110,
+			"bankId": 12,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 111,
+			"bankId": 12,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 112,
+			"bankId": 12,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 113,
+			"bankId": 12,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 114,
+			"bankId": 12,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 115,
+			"bankId": 13,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 116,
+			"bankId": 14,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 117,
+			"bankId": 14,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 118,
+			"bankId": 14,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 119,
+			"bankId": 14,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 120,
+			"bankId": 14,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 121,
+			"bankId": 14,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 122,
+			"bankId": 14,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 123,
+			"bankId": 14,
+			"debtorTypeName": "สินเชื่อหมุนเวียน (short term loan : O/D, P/N, L/G)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 124,
+			"bankId": 14,
+			"debtorTypeName": "เงินกู้ (long term loan)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 125,
+			"bankId": 14,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 126,
+			"bankId": 14,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 127,
+			"bankId": 15,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 128,
+			"bankId": 15,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 129,
+			"bankId": 15,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 130,
+			"bankId": 15,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 131,
+			"bankId": 15,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 132,
+			"bankId": 15,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 133,
+			"bankId": 15,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 134,
+			"bankId": 17,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 135,
+			"bankId": 20,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 136,
+			"bankId": 20,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 137,
+			"bankId": 20,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 138,
+			"bankId": 20,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 139,
+			"bankId": 20,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 140,
+			"bankId": 20,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 141,
+			"bankId": 21,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 142,
+			"bankId": 21,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 143,
+			"bankId": 21,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 144,
+			"bankId": 22,
+			"debtorTypeName": "Combine Line",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 145,
+			"bankId": 22,
+			"debtorTypeName": "FX (Foreign Exchange)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 146,
+			"bankId": 22,
+			"debtorTypeName": "LC,DLC,TR.SG.PC.CBN,EBP",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 147,
+			"bankId": 22,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 148,
+			"bankId": 22,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 149,
+			"bankId": 22,
+			"debtorTypeName": "LGF",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 150,
+			"bankId": 22,
+			"debtorTypeName": "LTL(B)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 151,
+			"bankId": 22,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 152,
+			"bankId": 22,
+			"debtorTypeName": "ODB",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 153,
+			"bankId": 22,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 154,
+			"bankId": 22,
+			"debtorTypeName": "PSR (Pre Settlement Risk)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 155,
+			"bankId": 22,
+			"debtorTypeName": "SPTD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 156,
+			"bankId": 22,
+			"debtorTypeName": "STL(PN-B)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 157,
+			"bankId": 22,
+			"debtorTypeName": "STL(PN-B) Against trade document",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 158,
+			"bankId": 22,
+			"debtorTypeName": "Treasury Facility",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 159,
+			"bankId": 22,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 160,
+			"bankId": 22,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 161,
+			"bankId": 22,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 162,
+			"bankId": 22,
+			"debtorTypeName": "วงเงินสินเชื่อการค้า/วงเงินสินเชื่อระยะสั้นประเภทตั๋วสัญญาใช้เงิน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 163,
+			"bankId": 22,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 164,
+			"bankId": 24,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 165,
+			"bankId": 24,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 166,
+			"bankId": 24,
+			"debtorTypeName": "LG, Trade Product",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 167,
+			"bankId": 24,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 168,
+			"bankId": 24,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 169,
+			"bankId": 24,
+			"debtorTypeName": "TL",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 170,
+			"bankId": 24,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 171,
+			"bankId": 24,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 172,
+			"bankId": 24,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 173,
+			"bankId": 24,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 174,
+			"bankId": 24,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 175,
+			"bankId": 25,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 176,
+			"bankId": 25,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 177,
+			"bankId": 25,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 178,
+			"bankId": 25,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 179,
+			"bankId": 25,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 180,
+			"bankId": 25,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 181,
+			"bankId": 25,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 182,
+			"bankId": 25,
+			"debtorTypeName": "เงินกู้",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 183,
+			"bankId": 25,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 184,
+			"bankId": 25,
+			"debtorTypeName": "เงินกู้ระยะยาว (Term Loan)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 185,
+			"bankId": 25,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 186,
+			"bankId": 30,
+			"debtorTypeName": "Commitment + LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 187,
+			"bankId": 30,
+			"debtorTypeName": "Commitment + PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 188,
+			"bankId": 30,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 189,
+			"bankId": 30,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 190,
+			"bankId": 30,
+			"debtorTypeName": "LG รายฉบับ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 191,
+			"bankId": 30,
+			"debtorTypeName": "LT",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 192,
+			"bankId": 30,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 193,
+			"bankId": 30,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 194,
+			"bankId": 30,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน /",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 195,
+			"bankId": 30,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 196,
+			"bankId": 30,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 197,
+			"bankId": 30,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 198,
+			"bankId": 30,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 199,
+			"bankId": 30,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 200,
+			"bankId": 34,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 201,
+			"bankId": 34,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 202,
+			"bankId": 34,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 203,
+			"bankId": 34,
+			"debtorTypeName": "Trade Finance",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 204,
+			"bankId": 34,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน (P/N)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 205,
+			"bankId": 34,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 206,
+			"bankId": 34,
+			"debtorTypeName": "วงเงิน O/D",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 207,
+			"bankId": 34,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 208,
+			"bankId": 34,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 209,
+			"bankId": 34,
+			"debtorTypeName": "เงินกู้ระยะยาว (Term Loan)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 210,
+			"bankId": 34,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 211,
+			"bankId": 35,
+			"debtorTypeName": "Combine Line",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 212,
+			"bankId": 35,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 213,
+			"bankId": 35,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 214,
+			"bankId": 35,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 215,
+			"bankId": 35,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 216,
+			"bankId": 35,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 217,
+			"bankId": 35,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 218,
+			"bankId": 35,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 219,
+			"bankId": 35,
+			"debtorTypeName": "สินเชื่อทรัสต์รีซีท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 220,
+			"bankId": 35,
+			"debtorTypeName": "สินเชื่อรับซื้อลดค่างาน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 221,
+			"bankId": 35,
+			"debtorTypeName": "สินเชื่อรับซื้อลดเอกสารส่งออก",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 222,
+			"bankId": 35,
+			"debtorTypeName": "สินเชื่อหนังสือค้ำประกัน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 223,
+			"bankId": 35,
+			"debtorTypeName": "สินเชื่อเพื่อเตรียมการส่งออก",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 224,
+			"bankId": 35,
+			"debtorTypeName": "สินเชื่อเพื่อเตรียมการส่งออก และ/หรือ  สินเชื่อเลตเตอร์ออฟเครดิต และ/หรือ ทรัสต์รีซีท และ/หรือ สินเชื่อรับซื้อลดเอกสารส่งออก",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 225,
+			"bankId": 35,
+			"debtorTypeName": "สินเชื่อเพื่อเตรียมการส่งออก และ/หรือ สินเชื่อรับซื้อลดเอกสารส่งออก",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 226,
+			"bankId": 35,
+			"debtorTypeName": "สินเชื่อเพื่อเตรียมการส่งออก และ/หรือ สินเชื่อเลตเตอร์ออฟเครดิต และ/หรือ ทรัสต์รีซีท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 227,
+			"bankId": 35,
+			"debtorTypeName": "สินเชื่อเลตเตอร์ออฟเครดิต",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 228,
+			"bankId": 35,
+			"debtorTypeName": "สินเชื่อเลตเตอร์ออฟเครดิต และ/หรือ ทรัสต์รีซีท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 229,
+			"bankId": 35,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 230,
+			"bankId": 35,
+			"debtorTypeName": "เงินกู้เบิกเงินเกินบัญชี",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 231,
+			"bankId": 65,
+			"debtorTypeName": "BG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 232,
+			"bankId": 65,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 233,
+			"bankId": 65,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 234,
+			"bankId": 65,
+			"debtorTypeName": "Loan",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 235,
+			"bankId": 65,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 236,
+			"bankId": 65,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 237,
+			"bankId": 65,
+			"debtorTypeName": "TDR",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 238,
+			"bankId": 65,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 239,
+			"bankId": 66,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 240,
+			"bankId": 66,
+			"debtorTypeName": "LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 241,
+			"bankId": 66,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 242,
+			"bankId": 66,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 243,
+			"bankId": 66,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 244,
+			"bankId": 66,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 245,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อวงเงินซื้อลดตั๋วเงิน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 246,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อวงเงินทุนนหมุนเวียน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 247,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อวงเงินทุนระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 248,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อวงเงินเบิกถอนเงินสด",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 249,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อการค้ำประกัน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 250,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อการนำเข้า",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 251,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อการรับรองตั๋วแลกเงิน และการอาวัลตั๋วเงิน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 252,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อการส่งออก",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 253,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อก่อสร้าง",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 254,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อก่อสร้างโรงงาน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 255,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อซื้อทรัพย์สินถาวรประเภทอสังหาริมทรัพย์",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 256,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อซื้อที่ดินสำหรับก่อสร้างที่อยู่อาศัยและประกอบธุรกิจ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 257,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อธุรกิจรายย่อย MSMES",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 258,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อพัฒนาโครงการ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 259,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อรับซื้อตั๋วสินค้าออก",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 260,
+			"bankId": 66,
+			"debtorTypeName": "สินเชื่อเพื่อไถ่ถอนทรัพย์สิน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 261,
+			"bankId": 66,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 262,
+			"bankId": 66,
+			"debtorTypeName": "เลตเตอร์ออฟเครดิต",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 263,
+			"bankId": 67,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 264,
+			"bankId": 67,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 265,
+			"bankId": 67,
+			"debtorTypeName": "เงินกู้ (Loan)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 266,
+			"bankId": 67,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 267,
+			"bankId": 67,
+			"debtorTypeName": "เงินกู้แบบหมุนเวียน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 268,
+			"bankId": 67,
+			"debtorTypeName": "เช่าซื้อ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 269,
+			"bankId": 67,
+			"debtorTypeName": "เพื่อเช่าซื้อ/เช่าลีสซิ่ง",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 270,
+			"bankId": 67,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 271,
+			"bankId": 69,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 272,
+			"bankId": 69,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 273,
+			"bankId": 69,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 274,
+			"bankId": 69,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 275,
+			"bankId": 69,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 276,
+			"bankId": 70,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 277,
+			"bankId": 70,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 278,
+			"bankId": 70,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 279,
+			"bankId": 70,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 280,
+			"bankId": 70,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 281,
+			"bankId": 70,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 282,
+			"bankId": 71,
+			"debtorTypeName": "Combine Line",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 283,
+			"bankId": 71,
+			"debtorTypeName": "LOAN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 283,
+			"bankId": 71,
+			"debtorTypeName": "สินเชื่อหมุนเวียน",
+			"status": "A",
+			"createBy": 0,
+			"createDt": "2021-03-29T18:06:49.000+0000",
+			"updateBy": 999999, 
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 284,
+			"bankId": 71,
+			"debtorTypeName": "Loan / L/T Loan",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 285,
+			"bankId": 71,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 286,
+			"bankId": 71,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 287,
+			"bankId": 71,
+			"debtorTypeName": "Revolving",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 288,
+			"bankId": 71,
+			"debtorTypeName": "WC / BG or LG",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 289,
+			"bankId": 71,
+			"debtorTypeName": "WC / PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 290,
+			"bankId": 71,
+			"debtorTypeName": "WC / SME-OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 291,
+			"bankId": 71,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 292,
+			"bankId": 71,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 293,
+			"bankId": 71,
+			"debtorTypeName": "อาวัลตั๋วเงิน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 294,
+			"bankId": 71,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 295,
+			"bankId": 71,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 296,
+			"bankId": 73,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 297,
+			"bankId": 73,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 298,
+			"bankId": 73,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 299,
+			"bankId": 73,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 300,
+			"bankId": 79,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 301,
+			"bankId": 79,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 302,
+			"bankId": 79,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 303,
+			"bankId": 79,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 304,
+			"bankId": 79,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 305,
+			"bankId": 79,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 306,
+			"bankId": 79,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 307,
+			"bankId": 79,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 308,
+			"bankId": 80,
+			"debtorTypeName": "LC/TR,Packing Credit",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 309,
+			"bankId": 80,
+			"debtorTypeName": "OD",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 310,
+			"bankId": 80,
+			"debtorTypeName": "PN",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 311,
+			"bankId": 80,
+			"debtorTypeName": "PN (ไม่ต้องระบุระยะเวลาการก่อหนี้)",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 312,
+			"bankId": 80,
+			"debtorTypeName": "ตั๋วสัญญาใช้เงิน,ขายลดเช็ค",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 313,
+			"bankId": 80,
+			"debtorTypeName": "วงเงินกู้RP แม่บท",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 314,
+			"bankId": 80,
+			"debtorTypeName": "วงเงินกู้อื่น ๆ",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 315,
+			"bankId": 80,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 316,
+			"bankId": 80,
+			"debtorTypeName": null,
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 317,
+			"bankId": 613,
+			"debtorTypeName": "เงินกู้ระยะยาว",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 318,
+			"bankId": 613,
+			"debtorTypeName": "เงินกู้แบบมีหลักทรัพย์ค้ำประกัน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 319,
+			"bankId": 613,
+			"debtorTypeName": "เงินกู้แบบไม่มีหลักทรัพย์ค้ำประกัน",
+			"status": "A",
+			"createBy": 1,
+			"createDt": "2021-02-05T18:06:49.000+0000",
+			"updateBy": 999999,
+			"updateDt": null
+		},
+		{
+			"debtorTypeId": 323,
+			"bankId": 6,
+			"debtorTypeName": "ทดสอบ",
+			"status": "A",
+			"createBy": null,
+			"createDt": "2021-02-17T10:11:55.657+0000",
+			"updateBy": null,
+			"updateDt": "2021-02-17T10:11:55.657+0000"
+		},
+		{
+			"debtorTypeId": 324,
+			"bankId": 6,
+			"debtorTypeName": "ชำระเงินต้นพร้อมดอกเบี้ย",
+			"status": "A",
+			"createBy": null,
+			"createDt": "2021-02-19T04:32:08.813+0000",
+			"updateBy": null,
+			"updateDt": "2021-02-19T04:32:08.813+0000"
+		},
+		{
+			"debtorTypeId": 325,
+			"bankId": 80,
+			"debtorTypeName": "หกดห",
+			"status": "A",
+			"createBy": null,
+			"createDt": "2021-03-18T04:19:13.051+0000",
+			"updateBy": null,
+			"updateDt": "2021-03-18T04:19:13.051+0000"
+		},
+		{
+			"debtorTypeId": 326,
+			"bankId": 80,
+			"debtorTypeName": "dfds",
+			"status": "A",
+			"createBy": null,
+			"createDt": "2021-03-18T04:19:13.124+0000",
+			"updateBy": null,
+			"updateDt": "2021-03-18T04:19:13.124+0000"
+		},
+		{
+			"debtorTypeId": 327,
+			"bankId": 80,
+			"debtorTypeName": "กู้ไปก่อน",
+			"status": "A",
+			"createBy": null,
+			"createDt": "2021-03-26T07:55:51.105+0000",
+			"updateBy": null,
+			"updateDt": "2021-03-26T07:55:51.105+0000"
+		}
+	],
+	"statusDescription": "200 OK",
+	"status": "SUCCESS",
+	"statusCode": 200
+}
